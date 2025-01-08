@@ -1,0 +1,10 @@
+.erk {
+    display: inline-block;
+    border-width: 5px;
+    border-color: black;
+    background-color: white;
+}
+
+body {
+    background-color: lightblue;
+}
