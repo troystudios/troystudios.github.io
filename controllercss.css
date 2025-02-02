@@ -1,0 +1,187 @@
+#controller-left {
+    position: fixed;
+    left: 100px;
+    top: 50px;
+    width: 500px;
+}
+
+#controller-right {
+    position: fixed;
+    left: 750px;
+    top: 50px;
+    width: 500px;
+}
+
+#container {
+    position: relative;
+}
+
+#example {
+    position:fixed;
+    left: 0px;
+
+}
+
+input {
+    position: fixed;
+}
+
+/* dpad */
+
+#left-dpad-1 {
+    left:50px;
+    top:225px;
+}
+
+#left-dpad-2 {
+    left:700px;
+    top:225px;
+}
+
+#up-dpad-1 {
+    left:50px;
+    top:175px;
+}
+
+#up-dpad-2 {
+    left:700px;
+    top:175px;
+}
+
+#down-dpad-1 {
+    left:50px;
+    top:275px;
+}
+
+#down-dpad-2 {
+    left:700px;
+    top:275px;
+}
+
+#right-dpad-1 {
+    left:50px;
+    top:325px;
+}
+
+#right-dpad-2 {
+    left:700px;
+    top:325px;
+}
+
+/* circle buttons */
+
+#circle-1 {
+    left:500px;
+    top:225px;
+}
+
+#circle-2 {
+    left:1150px;
+    top:225px;
+}
+
+#triangle-1 {
+    left:500px;
+    top:175px;
+}
+
+#triangle-2 {
+    left:1150px;
+    top:175px;
+}
+
+#x-1 {
+    left:500px;
+    top:275px;
+}
+
+#x-2 {
+    left:1150px;
+    top:275px;
+}
+
+#square-1 {
+    left:500px;
+    top:325px;
+}
+
+#square-2 {
+    left:1150px;
+    top:325px;
+}
+
+/* joysticks */
+
+#joystick-left-1 {
+    left:225px;
+    top:325px;
+}
+
+#joystick-left-2 {
+    left:875px;
+    top:325px;
+}
+
+#joystick-right-1 {
+    left:300px;
+    top:305px;
+}
+
+#joystick-right-2 {
+    left:950px;
+    top:305px;
+}
+
+/* bumpers + triggers */
+
+#bumper-left-1 {
+    left:100px;
+    top:135px;
+}
+
+#bumper-left-2 {
+    left:750px;
+    top:135px;
+}
+
+#bumper-right-1 {
+    left:450px;
+    top:135px;
+}
+
+#bumper-right-2 {
+    left:1100px;
+    top:135px;
+}
+
+#trigger-left-1 {
+    left:170px;
+    top:90px;
+}
+
+#trigger-left-2 {
+    left:375px;
+    top:90px;
+}
+
+#trigger-right-1 {
+    left:820px;
+    top:90px;
+}
+
+#trigger-right-2 {
+    left:1050px;
+    top:90px;
+}
+
+#label-1 {
+    position: fixed;
+    top: 400px;
+    left: 275px; 
+}
+
+#label-2 {
+    position: fixed;
+    top: 400px;
+    left: 925px;
+}
