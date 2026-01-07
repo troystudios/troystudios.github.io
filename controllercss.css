@@ -174,6 +174,16 @@ input {
     top:90px;
 }
 
+#ps-1 {
+    left:275px;
+    top:48px;
+}
+
+#ps-2 {
+    left:925px;
+    top:48px;
+}
+
 #label-1 {
     position: fixed;
     top: 400px;
