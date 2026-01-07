@@ -175,13 +175,15 @@ input {
 }
 
 #ps-1 {
-    left:275px;
-    top:48px;
+    left: 250px;
+    top: 48px;
+    width: 200px;
 }
 
 #ps-2 {
-    left:925px;
-    top:48px;
+    left: 900px;
+    top: 48px;
+    width: 200px;
 }
 
 #label-1 {
